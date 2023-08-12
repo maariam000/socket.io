@@ -1,0 +1,24 @@
+{
+  "name": "socket.io",
+  "version": "1.0.0",
+  "description": "learning the basics of socket.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js --w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maariam000/socket.io.git"
+  },
+  "author": "Mariam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maariam000/socket.io/issues"
+  },
+  "homepage": "https://github.com/maariam000/socket.io#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
